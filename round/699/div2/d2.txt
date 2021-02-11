@@ -1,0 +1,22 @@
+5
+3 4
+*ab
+b*a
+ab*
+3 4
+*aa
+b*b
+ba*
+4 8
+*aaa
+b*bb
+ba*b
+baa*
+4 6
+*aaa
+b*bb
+ba*b
+baa*
+2 1
+*a
+b*
